@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaswal" alt="shreyaswal" /></a> </p>
 
-- 🔭 I’m currently working on [InviteMate](https://github.com/ShreyAswal/InviteMate)
+- 🔭 I’m currently working on [Connect](https://github.com/ShreyAswal/Connect)
 
 - 🌱 I’m currently learning **MERN Stack, C++, Python.**
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShreyAswal](https://github.com/ShreyAswal)
 
-- 💬 Ask me about **JS,MERN Stack, HTML, CSS, C++**
+- 💬 Ask me about **MERN Stack, C++, HTML, CSS, JS**
 
 - 📫 How to reach me **⭐EMAIL: aswalshrey@gmail.com, shrey.aswal@kalvium.community ⭐LINKEDIN: www.linkedin.com/in/shreyaswal/**
 
-- ⚡ Fun fact **I listen to music, podcasts and play badminton.**
+- ⚡ Fun fact **I watch anime,listen to music and play badminton.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
