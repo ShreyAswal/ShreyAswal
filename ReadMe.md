@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaswal" alt="shreyaswal" /></a> </p>
 
-- 🔭 I’m currently working on [Connect](https://github.com/ShreyAswal/Connect)
+- 🔭 I’m currently interning in [PhonePe - part of Pincode web team](https://www.pincode.com/)
 
-- 🌱 I’m currently learning **MERN Stack, C++, Python.**
+- 🌱 I’m currently learning **Design and Analysis of algorithms, ReactQuery.**
 
 - 👯 I’m looking to collaborate on **building web and app applications.**
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShreyAswal](https://github.com/ShreyAswal)
 
-- 💬 Ask me about **MERN Stack, C++, HTML, CSS, JS**
+- 💬 Ask me about **MERN Stack, C++, DSA, CSS, JS**
 
 - 📫 How to reach me **⭐EMAIL: aswalshrey@gmail.com, shrey.aswal@kalvium.community ⭐LINKEDIN: www.linkedin.com/in/shreyaswal/**
 
-- ⚡ Fun fact **I watch anime,listen to music and play badminton.**
+- ⚡ Fun fact **I enjoy watching anime,listening to music and playing badminton!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
