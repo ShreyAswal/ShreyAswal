@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **building web and app applications.**
 
-- 🤝 I’m looking for help with **getting an internship role as a software engineer Intern.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ShreyAswal](https://github.com/ShreyAswal)
 
 - 💬 Ask me about **MERN Stack, C++, DSA, CSS, JS**
